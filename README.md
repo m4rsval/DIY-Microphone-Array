@@ -3,3 +3,4 @@ Instructions for creating a 4+1 Microphone array using INMP441 Omnidirectional C
 
 
 NOTE: This is an unfinished repository, the cad file and the circuit drawing are pushed, but the code for it is not yet. 
+There are multiple iterations of the array mount, each one is different in terms of screw holes and mounts for the Pico, use whichever feels right.
